@@ -48,7 +48,16 @@ NIM   = 20230140203<br>
 |Foto|
 |---|
 |<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/841f5dec-f39c-4769-9efd-45aa499bdb65" />|
-
+# CONTROLLFLOW
+|Jenis|DOKUMENTASI|
+|---|---|
+|Percabangan(if else)| <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9802b768-68f7-40a9-a4ca-aa0900ef71f6" />|
+|Percabangan(switch case|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8988ff2d-a968-4c77-8e55-499d1c05fafa" />|
+|Ternary|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/71550a43-666c-4e3b-8c18-4d150174b8a0" />|
+|Loopint(For)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0e1461d0-2be0-4eb7-83db-6854c32e17c4" />|
+|Looping(For in Loop)| <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bcb890db-7495-4d06-bcfb-474691c2a4b7" />|
+|FoeEach|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4235e7b6-a4cb-4b35-acd8-a7eec8c5ff31" />|
+# FUNCTION
 
 
 
