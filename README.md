@@ -45,6 +45,10 @@ NIM   = 20230140203<br>
 |Lebih Besar atau Sama|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0d5d5a76-72a3-4a4b-9672-a7de3dbc71e0" />|
 |Lebih Kecil atau sama|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a7dc02b9-290d-4228-aa22-f59060a6129f" />|
 ## PENUGASAN
+|Foto|
+|---|
+|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/841f5dec-f39c-4769-9efd-45aa499bdb65" />|
+
 
 
 
