@@ -28,6 +28,8 @@ NIM   = 20230140203<br>
 |JENIS|DOKUMENTASI|
 |---|---|
 |Penjumlahan|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c4ce671d-94af-4c90-b07b-c8c5f0f6aa7c" />|
+|Pengurangan|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c8746ea6-94bd-463a-b897-b17b2af35861" />|
+
 
 ## PERBANDINGAN
 ## PENUGASAN
