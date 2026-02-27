@@ -36,6 +36,14 @@ NIM   = 20230140203<br>
 
 
 ## PERBANDINGAN
+|JENIS|DOKUMENTASI|
+|---|---|
+|Sama Dengan|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3016410a-7867-4fed-bcbb-a00fd02d8cfb" />|
+|Tidak Sama Dengan|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e217e6c3-7bba-4324-b2f6-d86ab0809a2c" />|
+|Lebih Besar|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bf2aaa00-75c4-44e2-b32f-d702bae9cbf2" />|
+|Lebih Kecil|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/284822bf-32d1-44f8-8a3a-b1a773410f6f" />|
+|Lebih Besar atau Sama|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0d5d5a76-72a3-4a4b-9672-a7de3dbc71e0" />|
+|Lebih Kecil atau sama|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a7dc02b9-290d-4228-aa22-f59060a6129f" />|
 ## PENUGASAN
 
 
