@@ -23,6 +23,15 @@ NIM   = 20230140203<br>
 |Final|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/eb298014-41a1-4a93-8540-af1e2296b9c7" />|
 |Const|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/63d14ab8-810d-4048-9dde-2d2f96ea0096" />|
 
+# OPERATOR
+## ARITMATIKA
+|JENIS|DOKUMENTASI|
+|---|---|
+|Penjumlahan|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c4ce671d-94af-4c90-b07b-c8c5f0f6aa7c" />|
+
+## PERBANDINGAN
+## PENUGASAN
+
 
 
 
