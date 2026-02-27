@@ -16,6 +16,8 @@ NIM   = 20230140203<br>
 |jenis|Dokumentasi|
 |---|---|
 |Var|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/63d39e3d-8348-4a36-825d-d5b89ae29912" />|
+|Dynamic|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a2bf50ad-c2cb-457b-9386-2c985065cd26" />|
+
 
 
 
