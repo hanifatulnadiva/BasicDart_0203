@@ -29,6 +29,10 @@ NIM   = 20230140203<br>
 |---|---|
 |Penjumlahan|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c4ce671d-94af-4c90-b07b-c8c5f0f6aa7c" />|
 |Pengurangan|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c8746ea6-94bd-463a-b897-b17b2af35861" />|
+|Perkalian|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9049cc77-a45f-4773-834f-618be6e5afa0" />|
+|Pembagian(double)|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5a9ee371-6d70-4866-a42e-01555f81a1ba" />|
+|Pembagian(hasilnya bilangan bulat| <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dd4b4215-55ab-43eb-87ab-806e593725c0" />|
+|Modulus|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9a081d7b-fdc0-486e-a9dd-37ff566cb736" />|
 
 
 ## PERBANDINGAN
