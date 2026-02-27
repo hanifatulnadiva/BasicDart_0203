@@ -9,4 +9,6 @@ NIM   = 20230140203<br>
 |String|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4c07c77f-b958-41ae-ba90-ff9b8724f35c" />|
 |List|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6b35e39f-4bef-4e97-bb8b-c8feee09ad2e" />|
 |Set|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/574fa576-d707-4330-a352-3748b606d44b" />|
+|Map|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/30a81c32-13b4-49c6-8404-9ccc2e65413b" />|
+
 
