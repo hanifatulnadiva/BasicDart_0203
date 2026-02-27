@@ -17,6 +17,12 @@ NIM   = 20230140203<br>
 |---|---|
 |Var|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/63d39e3d-8348-4a36-825d-d5b89ae29912" />|
 |Dynamic|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a2bf50ad-c2cb-457b-9386-2c985065cd26" />|
+### variable Immutable
+|jenis|Dokumentasi|
+|---|---|
+|Final|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/eb298014-41a1-4a93-8540-af1e2296b9c7" />|
+|Const|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/63d14ab8-810d-4048-9dde-2d2f96ea0096" />|
+
 
 
 
