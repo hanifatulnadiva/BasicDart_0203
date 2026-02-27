@@ -58,6 +58,11 @@ NIM   = 20230140203<br>
 |Looping(For in Loop)| <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bcb890db-7495-4d06-bcfb-474691c2a4b7" />|
 |FoeEach|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4235e7b6-a4cb-4b35-acd8-a7eec8c5ff31" />|
 # FUNCTION
+|JENIS|DOKUMENTASI|
+|---|---|
+|Tanpa Return|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2f827c76-bb6c-45fe-bc01-76aa3e02a1a0" />|
+|Dengan Return|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/92391c08-a1f1-4739-86e7-f5336f6202e3" />|
+
 
 
 
