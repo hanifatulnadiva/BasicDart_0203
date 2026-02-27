@@ -11,4 +11,11 @@ NIM   = 20230140203<br>
 |Set|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/574fa576-d707-4330-a352-3748b606d44b" />|
 |Map|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/30a81c32-13b4-49c6-8404-9ccc2e65413b" />|
 
+## VARIABLE
+### Variable Mutable
+|jenis|Dokumentasi|
+|---|---|
+|Var|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/63d39e3d-8348-4a36-825d-d5b89ae29912" />|
+
+
 
